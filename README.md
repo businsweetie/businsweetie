@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 | **Проект** | **Тип исследования** | **Статус** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. Предсказание дефолта клиентов банка](https://github.com/businsweetie/credit_scoring)|Основные этапы обработки и методы отбора признаков для дальнейшего прогнозирования платежеспособности клиентов банка|Завершен|
+| [01. Предсказание дефолта клиентов банка](https://nbviewer.org/github/businsweetie/credit_scoring/tree/main/)|Основные этапы обработки и методы отбора признаков для дальнейшего прогнозирования платежеспособности клиентов банка|Завершен|
 | [02. Распознование коронавирусной инфекции по рентгеновским снимкам пациентов](https://github.com/businsweetie/detection-of-coronavirus-infection-by-X-rays)|Рассматриваются алгоритмы и архитектуры сверточных нейронных сетей, которые использовались для решения задачи распознавания коронавирусной инфекции.|Завершен|
 
 _______________________________________________________________________________________________________________________________________________________________________
@@ -72,7 +72,7 @@ ________________________________________________________________________________
 
 | **Проект** | **Тип исследования** | **Статус** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. Prediction of bank customers' default](https://github.com/businsweetie/credit_scoring)|The main stages of processing and methods of selecting features for further forecasting the solvency of the bank's customers|Completed|
+| [01. Prediction of bank customers' default](https://nbviewer.org/github/businsweetie/credit_scoring/tree/main/)|The main stages of processing and methods of selecting features for further forecasting the solvency of the bank's customers|Completed|
 | [02. Recognition of coronavirus infection by X-rays of patients](https://github.com/businsweetie/detection-of-coronavirus-infection-by-X-rays)|Algorithms and architectures of convolutional neural networks that were used to solve the problem of recognition of coronavirus infection are considered|Completed|
 
 _______________________________________________________________________________________________________________________________________________________________________
