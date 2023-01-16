@@ -31,8 +31,7 @@ ________________________________________________________________________________
 
 <p align="center"> <b>ПРОЕКТЫ</b> </p align="center">
 
-Отображение некоторых элементов ограничено - рекомендую смотреть проекты через [External Viewer](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/tree/9d86c5514664c670c928edbb1eb0f857e62e4e5e/)   
-Для удобства, ссылки ведут сразу на данный сервис просмотра. Если нужны исходные файлы - переходи на соответствующий репозиторий
+Отображение некоторых элементов ограничено - рекомендую смотреть проекты через [External Viewer](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/tree/9d86c5514664c670c928edbb1eb0f857e62e4e5e/). Для удобства, ссылки ведут сразу на данный сервис просмотра. Если нужны исходные файлы - переходи на соответствующий репозиторий
 
 
 | **Проект** | **Тип исследования** | **Статус** |
@@ -75,8 +74,7 @@ ________________________________________________________________________________
   
 </p>
 
-The display of some elements is limited - I recommend watching projects through [External Viewer](https://nbviewer.org/github/businsweetie/)   
-The links in the table lead to repositories.
+The display of some elements is limited - I recommend watching projects through [External Viewer](https://nbviewer.org/github/businsweetie/). The links in the table lead to repositories.
 _______________________________________________________________________________________________________________________________________________________________________
 
 <p align="center"> <b>PROJECTS</b> </p align="center">
