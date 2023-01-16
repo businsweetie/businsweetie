@@ -31,13 +31,13 @@ ________________________________________________________________________________
 
 <p align="center"> <b>ПРОЕКТЫ</b> </p align="center">
 
-Отображение некоторых элементов ограничено - рекомендую смотреть проекты через [External Viewer](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/tree/9d86c5514664c670c928edbb1eb0f857e62e4e5e/). Для удобства, ссылки ведут сразу на данный сервис просмотра. Если нужны исходные файлы - переходи на соответствующий репозиторий
+Отображение некоторых элементов ограничено - рекомендую смотреть проекты через [External Viewer](https://nbviewer.org/github/businsweetie/data_science_projects/tree/main/). Для удобства, ссылки ведут сразу на данный сервис просмотра. Если нужны исходные файлы - переходи на соответствующий репозиторий
 
 
 | **Проект** | **Тип исследования** | **Статус** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. Предсказание дефолта клиентов банка](https://github.com/businsweetie/credit_scoring)|Основные этапы обработки и методы отбора признаков для дальнейшего прогнозирования платежеспособности клиентов банка|Завершен|
-| [02. Распознование коронавирусной инфекции по рентгеновским снимкам пациентов](https://github.com/businsweetie/detection-of-coronavirus-infection-by-X-rays)|Рассматриваются алгоритмы и архитектуры сверточных нейронных сетей, которые использовались для решения задачи распознавания коронавирусной инфекции.|Завершен|
+| [01. Предсказание дефолта клиентов банка](https://github.com/businsweetie/data_science_projects/tree/main/credit_scoring)|Основные этапы обработки и методы отбора признаков для дальнейшего прогнозирования платежеспособности клиентов банка|Завершен|
+| [02. Распознование коронавирусной инфекции по рентгеновским снимкам пациентов](https://github.com/businsweetie/data_science_projects/tree/main/detection-of-coronavirus-infection-by-X-rays)|Рассматриваются алгоритмы и архитектуры сверточных нейронных сетей, которые использовались для решения задачи распознавания коронавирусной инфекции.|Завершен|
 
 _______________________________________________________________________________________________________________________________________________________________________
 <br>
@@ -74,7 +74,7 @@ ________________________________________________________________________________
   
 </p>
 
-The display of some elements is limited - I recommend watching projects through [External Viewer](https://nbviewer.org/github/businsweetie/). The links in the table lead to repositories.
+The display of some elements is limited - I recommend watching projects through [External Viewer](https://nbviewer.org/github/businsweetie/data_science_projects/tree/main/). The links in the table lead to repositories.
 _______________________________________________________________________________________________________________________________________________________________________
 
 <p align="center"> <b>PROJECTS</b> </p align="center">
@@ -82,7 +82,7 @@ ________________________________________________________________________________
 
 | **Проект** | **Тип исследования** | **Статус** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. Prediction of bank customers' default](https://github.com/businsweetie/credit_scoring)|The main stages of processing and methods of selecting features for further forecasting the solvency of the bank's customers|Completed|
-| [02. Recognition of coronavirus infection by X-rays of patients](https://github.com/businsweetie/detection-of-coronavirus-infection-by-X-rays)|Algorithms and architectures of convolutional neural networks that were used to solve the problem of recognition of coronavirus infection are considered|Completed|
+| [01. Prediction of bank customers' default](https://github.com/businsweetie/data_science_projects/tree/main/credit_scoring)|The main stages of processing and methods of selecting features for further forecasting the solvency of the bank's customers|Completed|
+| [02. Recognition of coronavirus infection by X-rays of patients](https://github.com/businsweetie/data_science_projects/tree/main/detection-of-coronavirus-infection-by-X-rays)|Algorithms and architectures of convolutional neural networks that were used to solve the problem of recognition of coronavirus infection are considered|Completed|
 
 _______________________________________________________________________________________________________________________________________________________________________
